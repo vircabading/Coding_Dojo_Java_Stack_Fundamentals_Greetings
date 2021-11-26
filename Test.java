@@ -3,3 +3,9 @@
 // By:  Virgilio D. Cabading Jr.    Created at: November 26, 2021 14:45
 // ////////////////////////////////////////////////////////////
 
+public class Test {
+    // //// MAIN METHOD ///////////////////////////////////////
+	public static void main(String[] args) {
+        System.out.println("Hello World!");
+	}
+}
